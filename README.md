@@ -28,4 +28,5 @@ The goal of this project is to transform raw data into meaningful insights that 
 *Business performance comparison across segments
 *Key indicators that influence business productivity
 
-Screenshot of the Dashboard :
+
+
